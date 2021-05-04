@@ -1,5 +1,3 @@
 console.log("hello world")
 
-// deneme
-
-//denme
+// deneme me me
